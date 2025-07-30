@@ -1,0 +1,201 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Applications,Complaints,Loan_Amount,Credit_History
+LN0001,Male,Yes,3+,Graduate,Yes,App2,Yes,57362.0,0.0
+LN0002,Female,No,3+,Not Graduate,No,App3,No,292272.0,1.0
+LN0003,Male,,2,Not Graduate,Yes,App1,,395925.0,1.0
+LN0004,Male,Yes,0,Not Graduate,,App1,No,252353.0,0.0
+LN0005,Male,No,3+,,,App1,Yes,200455.0,0.0
+LN0006,Female,Yes,3+,,No,App1,,75545.0,0.0
+LN0007,Male,No,1,Graduate,No,App4,Yes,,0.0
+LN0008,Male,No,3+,Not Graduate,Yes,App1,No,97958.0,1.0
+LN0009,Male,No,3+,Not Graduate,No,App4,,413081.0,1.0
+LN0010,Female,Yes,1,Not Graduate,Yes,App4,Yes,405435.0,1.0
+LN0011,,Yes,,Graduate,Yes,App1,,311953.0,1.0
+LN0012,Male,,3+,Not Graduate,,App1,No,,0.0
+LN0013,,Yes,1,Not Graduate,Yes,App2,,,1.0
+LN0014,Male,Yes,0,Not Graduate,No,App3,,,1.0
+LN0015,Female,Yes,2,Not Graduate,No,App1,,437603.0,0.0
+LN0016,Male,Yes,0,Graduate,Yes,,Yes,18512.0,1.0
+LN0017,Female,No,0,Graduate,Yes,App2,,142414.0,1.0
+LN0018,Female,Yes,1,Not Graduate,Yes,App3,No,466292.0,1.0
+LN0019,Female,No,3+,Graduate,No,App4,Yes,118872.0,1.0
+LN0020,Male,Yes,1,Graduate,Yes,App1,Yes,422432.0,1.0
+LN0021,Female,Yes,1,Not Graduate,Yes,App3,Yes,257754.0,1.0
+LN0022,Male,Yes,,Not Graduate,No,App1,No,103070.0,
+LN0023,Female,No,1,Graduate,No,App2,Yes,89767.0,0.0
+LN0024,Female,No,2,Not Graduate,Yes,App2,Yes,107829.0,1.0
+LN0025,Female,No,3+,,No,,Yes,429830.0,1.0
+LN0026,Female,No,0,,No,App2,No,439474.0,0.0
+LN0027,Female,Yes,0,Graduate,Yes,App2,Yes,,1.0
+LN0028,Female,No,3+,Not Graduate,No,App3,No,52078.0,1.0
+,,Yes,0,Graduate,Yes,App1,No,378432.0,1.0
+LN0030,Female,Yes,3+,Graduate,No,App1,Yes,93524.0,0.0
+LN0031,Male,No,0,Graduate,,,Yes,237645.0,1.0
+LN0032,Male,No,1,Not Graduate,Yes,App4,No,22219.0,0.0
+LN0033,Female,No,0,Graduate,Yes,App1,Yes,272379.0,1.0
+,Female,No,3+,Graduate,No,App2,Yes,315073.0,0.0
+LN0035,Female,No,3+,Not Graduate,Yes,App1,No,137309.0,0.0
+LN0036,Male,,,Not Graduate,No,App2,No,339588.0,1.0
+LN0037,Female,No,3+,,,App4,Yes,149639.0,0.0
+LN0038,Male,No,3+,Graduate,Yes,App3,No,373978.0,1.0
+LN0039,Male,,2,Not Graduate,No,App1,,474008.0,0.0
+,,,2,Not Graduate,Yes,App3,Yes,206513.0,1.0
+LN0041,Male,No,0,Not Graduate,,App1,Yes,356699.0,1.0
+LN0042,Male,Yes,,Not Graduate,No,App2,No,,0.0
+LN0043,Female,No,0,Not Graduate,Yes,App3,Yes,396594.0,1.0
+LN0044,Female,Yes,3+,Graduate,Yes,App1,Yes,258320.0,1.0
+LN0045,Female,Yes,3+,Not Graduate,Yes,App2,Yes,146487.0,0.0
+LN0046,,No,,Graduate,Yes,App3,No,177231.0,1.0
+LN0047,Female,Yes,2,Graduate,No,,,53925.0,
+LN0048,Male,Yes,1,Graduate,No,App1,No,147023.0,0.0
+LN0049,Female,Yes,2,Not Graduate,Yes,App1,No,97388.0,0.0
+LN0050,Female,Yes,,Graduate,No,App1,No,18007.0,1.0
+LN0051,Male,No,1,,Yes,App2,Yes,267802.0,1.0
+LN0052,Female,Yes,,Not Graduate,No,App1,No,445048.0,0.0
+LN0053,Male,,1,Graduate,Yes,,No,68596.0,0.0
+,,Yes,1,Graduate,Yes,App3,No,393245.0,1.0
+,Male,,0,Not Graduate,Yes,App1,,433739.0,0.0
+,Female,Yes,2,Graduate,Yes,App1,,361005.0,1.0
+LN0057,Female,Yes,1,Graduate,Yes,App4,No,265266.0,
+LN0058,Male,No,3+,Graduate,Yes,App3,Yes,358884.0,1.0
+LN0059,Male,No,2,Not Graduate,No,,,,1.0
+LN0060,Male,Yes,2,Not Graduate,Yes,App4,Yes,422498.0,1.0
+LN0061,Male,Yes,1,Not Graduate,No,App1,,165002.0,
+LN0062,Male,No,0,,Yes,App1,Yes,403293.0,0.0
+LN0063,Male,Yes,1,,No,App3,,135501.0,0.0
+LN0064,Male,Yes,0,Not Graduate,No,App1,Yes,292755.0,0.0
+LN0065,Male,Yes,3+,Graduate,No,App2,No,158056.0,1.0
+LN0066,Female,No,2,Graduate,Yes,App3,Yes,24060.0,1.0
+LN0067,Female,No,3+,Not Graduate,Yes,App1,Yes,224057.0,1.0
+,,No,0,Not Graduate,No,App3,No,487272.0,1.0
+LN0069,Female,Yes,0,Graduate,Yes,App1,Yes,315447.0,0.0
+LN0070,Female,,3+,Graduate,No,App1,No,200279.0,1.0
+LN0071,Female,No,0,Graduate,Yes,App1,No,216118.0,1.0
+LN0072,Female,No,3+,,No,App2,No,170359.0,0.0
+LN0073,Male,No,,Not Graduate,No,App2,Yes,,0.0
+LN0074,Female,No,3+,Not Graduate,Yes,App3,Yes,,0.0
+LN0075,Male,Yes,2,Not Graduate,No,App1,Yes,153026.0,0.0
+LN0076,Female,No,3+,Graduate,Yes,App1,No,345484.0,
+LN0077,Female,Yes,0,Not Graduate,No,,Yes,475317.0,1.0
+LN0078,Female,No,3+,Not Graduate,No,App1,Yes,474736.0,0.0
+LN0079,Male,Yes,0,Not Graduate,Yes,App2,Yes,228134.0,1.0
+LN0080,Female,No,3+,Not Graduate,Yes,App1,No,112974.0,1.0
+LN0081,,No,3+,Not Graduate,Yes,App3,No,159646.0,
+,Female,No,,Graduate,No,App1,Yes,412400.0,0.0
+LN0083,Male,No,0,Graduate,Yes,App1,,160168.0,1.0
+LN0084,Female,Yes,1,Not Graduate,No,App4,Yes,77728.0,0.0
+LN0085,Male,No,0,Graduate,No,App2,Yes,175088.0,1.0
+LN0086,Male,Yes,1,,Yes,App1,,21246.0,
+LN0087,Female,Yes,2,Not Graduate,Yes,App1,No,448774.0,1.0
+LN0088,Male,Yes,3+,Graduate,No,App4,No,421597.0,0.0
+LN0089,Female,Yes,0,Graduate,No,App4,No,399940.0,
+LN0090,Female,No,0,Not Graduate,Yes,App2,Yes,439671.0,0.0
+,Female,Yes,3+,Not Graduate,Yes,App4,Yes,102263.0,0.0
+,Female,Yes,0,Not Graduate,Yes,App3,Yes,407234.0,0.0
+LN0093,Female,Yes,0,Graduate,Yes,App4,No,21302.0,1.0
+LN0094,Female,No,1,Not Graduate,Yes,App3,Yes,339650.0,1.0
+LN0095,Female,No,0,Not Graduate,No,App2,No,51157.0,1.0
+LN0096,Female,No,2,Not Graduate,No,App2,No,64917.0,1.0
+LN0097,Female,No,2,Graduate,No,App2,Yes,233810.0,0.0
+LN0098,Female,Yes,3+,Not Graduate,No,App2,,,0.0
+LN0099,Female,Yes,,Not Graduate,Yes,App2,Yes,355266.0,0.0
+LN0100,,No,3+,Graduate,,App3,No,296663.0,1.0
+,Male,Yes,2,Not Graduate,Yes,App3,Yes,490703.0,0.0
+LN0102,,Yes,0,Not Graduate,No,App2,No,460035.0,1.0
+,Female,Yes,,Graduate,No,App4,Yes,353054.0,0.0
+LN0104,Female,No,3+,Not Graduate,Yes,App1,No,392574.0,1.0
+LN0105,Female,No,2,Graduate,Yes,App2,No,343468.0,1.0
+LN0106,Female,Yes,0,Graduate,No,App4,Yes,277552.0,0.0
+LN0107,,No,3+,Not Graduate,No,App1,No,69379.0,0.0
+LN0108,,,2,Not Graduate,Yes,,No,35053.0,0.0
+LN0109,Female,,3+,Not Graduate,Yes,App2,Yes,412662.0,
+LN0110,Male,No,1,Not Graduate,No,App3,No,141994.0,
+LN0111,Female,No,0,Graduate,Yes,App1,Yes,108723.0,0.0
+LN0112,Male,Yes,1,Not Graduate,Yes,App1,No,61356.0,0.0
+LN0113,Female,No,2,Graduate,Yes,,Yes,282933.0,0.0
+LN0114,Female,,1,Not Graduate,No,App3,Yes,369864.0,1.0
+LN0115,Male,Yes,1,Not Graduate,No,App3,,338800.0,1.0
+LN0116,Female,No,2,Not Graduate,No,App3,No,316172.0,0.0
+LN0117,Male,,3+,Graduate,No,App3,No,336628.0,
+,Female,Yes,1,Not Graduate,,App1,No,42154.0,0.0
+LN0119,Female,Yes,,Not Graduate,No,App1,No,223942.0,1.0
+LN0120,,No,1,Not Graduate,No,App2,Yes,274480.0,1.0
+LN0121,Female,No,3+,Not Graduate,Yes,App2,,375821.0,
+,Male,Yes,2,Graduate,Yes,,Yes,339923.0,1.0
+LN0123,Female,No,1,Not Graduate,Yes,,Yes,,0.0
+LN0124,Male,No,2,Graduate,,App3,No,331345.0,0.0
+LN0125,Male,No,1,Graduate,Yes,App2,Yes,,0.0
+LN0126,Female,No,2,Graduate,Yes,App4,Yes,375060.0,1.0
+LN0127,Female,Yes,2,Graduate,Yes,App4,Yes,253322.0,0.0
+,Male,Yes,1,Graduate,No,App2,Yes,184944.0,0.0
+LN0129,Female,No,1,Graduate,No,App2,No,,0.0
+LN0130,Female,,1,Not Graduate,Yes,App2,Yes,397877.0,1.0
+LN0131,,Yes,0,,Yes,App2,No,458396.0,1.0
+LN0132,Male,Yes,3+,Graduate,No,App2,No,164782.0,1.0
+,Male,No,0,Graduate,Yes,App2,Yes,170558.0,
+LN0134,Male,Yes,0,Not Graduate,Yes,App3,No,81907.0,0.0
+LN0135,Male,No,2,,No,App3,No,401020.0,0.0
+LN0136,Male,No,1,Graduate,Yes,App3,No,212967.0,1.0
+LN0137,Male,Yes,3+,Not Graduate,No,App3,Yes,336579.0,1.0
+,Male,Yes,2,Graduate,Yes,App2,No,312775.0,0.0
+LN0139,,No,0,Graduate,No,App4,No,401182.0,1.0
+LN0140,Male,No,1,Not Graduate,No,App1,No,242604.0,1.0
+LN0141,Female,Yes,2,Graduate,No,App2,Yes,292247.0,1.0
+LN0142,Male,No,1,,Yes,App1,No,74772.0,1.0
+,Female,Yes,2,Not Graduate,No,App4,Yes,136108.0,0.0
+LN0144,Female,No,1,Graduate,Yes,App3,Yes,24382.0,1.0
+LN0145,Female,Yes,0,Graduate,Yes,,Yes,94291.0,
+LN0146,Male,Yes,3+,,,App2,Yes,373339.0,
+LN0147,Male,Yes,0,Graduate,Yes,App3,,144828.0,1.0
+LN0148,Male,No,,Graduate,,App2,Yes,292753.0,0.0
+,Male,No,1,Graduate,No,App3,No,157550.0,0.0
+LN0150,Female,Yes,2,,Yes,App1,Yes,242050.0,1.0
+LN0151,Male,No,0,Not Graduate,Yes,App1,No,442882.0,1.0
+LN0152,Male,Yes,3+,Graduate,No,App1,No,347827.0,1.0
+,,Yes,0,Not Graduate,Yes,,Yes,396858.0,1.0
+LN0154,,No,3+,,No,App2,No,140330.0,
+LN0155,Male,No,0,Not Graduate,Yes,App4,No,81315.0,1.0
+LN0156,Female,Yes,3+,Not Graduate,Yes,App1,No,349978.0,0.0
+LN0157,Male,No,3+,Not Graduate,No,App2,No,398349.0,1.0
+LN0158,,No,1,Graduate,Yes,,,,0.0
+LN0159,,Yes,3+,Graduate,No,App4,No,86325.0,0.0
+LN0160,Female,,1,,Yes,App4,Yes,250773.0,1.0
+LN0161,Male,No,3+,Not Graduate,Yes,App4,No,416215.0,
+LN0162,Male,Yes,2,Not Graduate,Yes,App1,No,65318.0,0.0
+LN0163,,Yes,2,Graduate,No,App2,Yes,404030.0,0.0
+LN0164,Female,No,2,Not Graduate,Yes,App2,No,387177.0,0.0
+LN0165,Female,Yes,3+,Graduate,Yes,App1,No,,0.0
+LN0166,Male,Yes,1,Graduate,Yes,App2,No,,0.0
+LN0167,Female,,1,Graduate,Yes,App1,Yes,143515.0,1.0
+LN0168,,No,3+,Not Graduate,No,App2,No,479209.0,0.0
+,Male,Yes,2,Not Graduate,No,App3,Yes,216988.0,0.0
+LN0170,,Yes,2,Graduate,Yes,App3,No,345463.0,
+LN0171,Female,No,1,Graduate,,App4,,135885.0,1.0
+LN0172,Male,No,2,Graduate,Yes,App3,Yes,381921.0,0.0
+LN0173,Male,No,0,Graduate,Yes,App3,,27368.0,1.0
+LN0174,Female,No,1,Not Graduate,Yes,App3,No,156400.0,0.0
+LN0175,Female,Yes,2,Not Graduate,No,App1,Yes,198014.0,1.0
+LN0176,Female,No,1,Graduate,No,App3,Yes,101751.0,
+LN0177,Male,,0,Graduate,No,App3,No,,0.0
+LN0178,Male,Yes,1,Not Graduate,No,App4,Yes,299450.0,0.0
+LN0179,Male,No,1,Not Graduate,No,App3,No,488667.0,1.0
+LN0180,Male,Yes,1,Graduate,No,,No,180987.0,0.0
+LN0181,Male,No,1,Graduate,No,App2,No,,
+LN0182,Male,No,0,Graduate,No,App4,No,221951.0,1.0
+LN0183,Female,No,3+,Not Graduate,No,,Yes,205716.0,1.0
+LN0184,Male,,1,Not Graduate,Yes,App4,No,70279.0,1.0
+LN0185,Male,Yes,1,Not Graduate,No,App4,,325172.0,1.0
+LN0186,Male,,2,Graduate,No,App4,No,376407.0,0.0
+LN0187,Female,Yes,1,Graduate,No,App4,Yes,10126.0,1.0
+LN0188,Male,Yes,2,Not Graduate,No,,No,324473.0,1.0
+,Male,Yes,3+,Not Graduate,No,App3,Yes,37632.0,0.0
+LN0190,Female,Yes,0,,No,App4,Yes,206382.0,
+LN0191,Male,Yes,0,Not Graduate,No,App3,No,119945.0,0.0
+LN0192,Male,Yes,3+,Not Graduate,No,App3,No,327320.0,0.0
+LN0193,Male,No,0,Graduate,No,App1,No,260869.0,0.0
+,Male,No,3+,Not Graduate,No,App4,No,227138.0,1.0
+LN0195,Male,Yes,3+,Graduate,No,App2,Yes,,1.0
+LN0196,Female,No,3+,Graduate,Yes,App1,No,472120.0,
+LN0197,Female,No,0,Graduate,Yes,App2,Yes,144869.0,0.0
+LN0198,Female,No,2,Graduate,No,App3,Yes,188954.0,1.0
+LN0199,Male,No,3+,Graduate,No,App3,No,154790.0,0.0
+LN0200,Male,Yes,1,Graduate,Yes,App1,Yes,,1.0
